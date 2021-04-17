@@ -6,6 +6,16 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Shazbot",
+    "name": "SRTS Expanded: RotorCraft"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -42,6 +52,18 @@
     "version": "1.0.2.1"
   },
   {
+    "author": "Saakra",
+    "name": "Empire",
+    "steamId": "2006535182",
+    "version": "0.357"
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.1"
+  },
+  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics"
   },
@@ -60,16 +82,16 @@
     "name": "Gemstones"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
-  },
-  {
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
     "version": "0.5.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3",
+    "steamId": "2038409475",
+    "version": "1.0.0.0"
   },
   {
     "author": "Saucy_Pigeon",
@@ -235,7 +257,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.4.0"
+    "version": "3.1.5.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi",
@@ -297,7 +319,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.22.0"
+    "version": "1.0.26.0"
   },
   {
     "author": "Oskar Potocki",
@@ -330,6 +352,10 @@
     "name": "Smart Medicine",
     "steamId": "1309994319",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Simple Turrets"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
@@ -366,5 +392,17 @@
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7528.166"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
   }
 ]
