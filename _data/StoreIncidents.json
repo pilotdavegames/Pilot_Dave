@@ -102,8 +102,8 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
+		"price": 333,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 600,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1400,
+		"price": 900,
 		"karmatype": "Neutral"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -172,8 +172,8 @@
 	},
 	{
 		"abr": "rarethrumbos",
-		"price": 500,
-		"karmatype": "Good"
+		"price": 1000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -214,11 +214,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -337,22 +332,22 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -391,5 +386,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 77
 }
