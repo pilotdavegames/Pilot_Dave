@@ -13,7 +13,7 @@
 	{
 		"abr": "rain",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "vomitrain",
@@ -347,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
