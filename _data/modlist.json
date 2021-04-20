@@ -394,15 +394,15 @@
     "version": "1.0.5.0"
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] More Trait Slots",
-    "steamId": "1508292711",
-    "version": "1.0.7528.166"
-  },
-  {
     "author": "targhetti",
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Animal",
+    "steamId": "1629099614",
     "version": "1.0.0.0"
   }
 ]
