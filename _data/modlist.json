@@ -6,26 +6,46 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Shazbot",
-    "name": "SRTS Expanded: RotorCraft"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "8.0.1"
   },
   {
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.10"
   },
   {
     "author": "hodlhodl",
@@ -52,16 +72,16 @@
     "version": "1.0.2.1"
   },
   {
-    "author": "Saakra",
-    "name": "Empire",
-    "steamId": "2006535182",
-    "version": "0.357"
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Torann",
-    "name": "Rim War",
-    "steamId": "2222935097",
-    "version": "0.9.8.1"
+    "author": "MarvinKosh",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.7603.566"
   },
   {
     "author": "spoonshortage",
@@ -257,7 +277,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.5.0"
+    "version": "3.1.6.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi",
@@ -384,6 +404,12 @@
     "version": "1.0.7546.40571"
   },
   {
+    "author": "Sarg Bjornson, Roll1D2Games",
+    "name": "The Joris Experience",
+    "steamId": "2469797693",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings"
   },
@@ -394,15 +420,35 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "Distman (Ministry Of Mom)",
+    "name": "Medieval Royalty Faction"
+  },
+  {
     "author": "targhetti",
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
     "version": "1.0.0.0"
   },
   {
+    "author": "Kirby23590",
+    "name": "[KIR]No Mechanoid Raids"
+  },
+  {
     "author": "民火",
     "name": "Statue of Animal",
     "steamId": "1629099614",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Alan Dariva",
+    "name": "More Planning"
+  },
+  {
+    "author": "DEETS",
+    "name": "Extended Colors - Standing Lamps"
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl"
   }
 ]
