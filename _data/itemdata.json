@@ -1737,28 +1737,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_arcaneDmg": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_arcaneDmg_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Silver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2639,28 +2617,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_arcaneRes_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_arcaneRes": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Gun_BoltActionRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2738,17 +2694,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_arcaneRes_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Gun_TripleRocket": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2801,17 +2746,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_xpGain_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -6005,17 +5939,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Techprint_BrainWiring": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Royalty",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Techprint_SpecializedLimbs": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7919,28 +7842,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_xpGain": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_xpGain_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Gun_InfernoCannonTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9283,204 +9184,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_coolDown_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_coolDown": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_coolDown_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpCost_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpCost": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpCost_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpRegenRate_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpRegenRate": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_mpRegenRate_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_maxMP_major": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_maxMP": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_EStone_maxMP_minor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SeedofRegrowth": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_MagicArtifact_MagicEssence": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_MagicArtifact_MightEssence": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_ClassExtraction": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "MagicArtifact_RerollSpiritBond": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Dire_WolfR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "TMB_StatueOfAnimal1x": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9602,1928 +9305,597 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_arcaneDmg_major": {
+  "SurgicalInstruments": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_wonder_minor": {
+  "SurgicalLamp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_wonder": {
+  "KitchenCupboard": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_EStone_wonder_major": {
+  "ToolCabinetC": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RawMagicyte": {
+  "ToolCabinetB": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_Manaweave": {
+  "ToolCabinetA": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_Arcalleum": {
+  "AdvancedMultiAnalyzer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "More Linkables",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_Demonhide": {
+  "Apparel_OCHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TM_Demonscale": {
+  "Apparel_OCCombatVest": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfQuestion": {
+  "Apparel_NanoSpeed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfInnerFire": {
+  "Apparel_NanoSkin": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfHeartOfFrost": {
+  "Apparel_Reactive": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfStormBorn": {
+  "Apparel_NanoSuitHelmet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfArcanist": {
+  "Apparel_NanoSuit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfValiant": {
+  "Apparel_OCShield": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfSummoner": {
+  "VFES_PsychicPylon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfNature": {
+  "VFES_Turret_ChargeTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfUndead": {
+  "VFES_ShieldGenerator_Archotech": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfPriest": {
+  "VFES_ShieldGenerator_Small": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfBard": {
+  "VFES_BearTrap": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfDemons": {
+  "VFES_Turret_SentryGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfEarth": {
+  "VFES_Turret_Flame": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfMagitech": {
+  "VFES_Turret_Searchlight": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfHemomancy": {
+  "VFES_Turret_MilitaryTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfEnchanter": {
+  "VFES_AmmoCrate": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfChronomancer": {
+  "VFES_Turret_Artillery": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfChaos": {
+  "VFES_Turret_Decoy": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfTheSun": {
+  "VFES_Landmine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Torn_BookOfShamanism": {
+  "VFES_ChemfuelBarrel": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfInnerFire": {
+  "VFES_Turret_FloorTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfHeartOfFrost": {
+  "SyntheticKidney": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfStormBorn": {
+  "SyntheticLiver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfArcanist": {
+  "SyntheticLung": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfValiant": {
+  "AIChip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfSummoner": {
+  "SurrogateKidney": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfDruid": {
+  "SurrogateLiver": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfNecromancer": {
+  "SurrogateStomach": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfPriest": {
+  "SurrogateLung": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfBard": {
+  "BrainStimulator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfDemons": {
+  "ArtificialClavicle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfEarth": {
+  "ArtificialPelvis": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfMagitech": {
+  "SimpleProstheticFoot": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfHemomancy": {
+  "SimpleProstheticHand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfEnchanter": {
+  "LightReceptor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfChronomancer": {
+  "HydraulicJaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfChaos": {
+  "ArtificialNose": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfTheSun": {
+  "GoldenEye": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfShamanism": {
+  "Jaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfGladiator": {
+  "Ear": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfPsionic": {
+  "Nose": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfFaceless": {
+  "Eye": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfSniper": {
+  "Stomach": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfBladedancer": {
+  "Arm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BookOfRanger": {
+  "Leg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BookOfDeathKnight": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BookOfMonk": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BookOfCommander": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BookOfSuperSoldier": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "BookOfShadow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_ArcaneBolt": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Blink": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Blur": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Cooler": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_DirtDevil": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_EMP": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Extinguish": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Heal": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Heater": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Ignite": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_MageLight": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_PowerNode": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Rain": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SnapFreeze": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SmokeCloud": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Sunlight": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_ChargeBattery": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_CauterizeWound": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Discord": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_DryGround": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_WetGround": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Invisibility": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_LightningTrap": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_ManaShield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_ShieldOther": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SpellMending": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SiphonMana": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SummonMinion": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Teleport": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_TransferMana": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_BlankMind": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_BriarPatch": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_FertileLands": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_MechaniteReprogramming": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Overdrive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Sabotage": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_TechnoShield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_BattleHymn": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Blizzard": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_BloodMoon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_EyeOfTheStorm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Firestorm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_FoldReality": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_GuardianSpirit": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_HolyWrath": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_LichForm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Meteor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_OrbitalStrike": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_PsychicShock": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Recall": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_RegrowLimb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Resurrection": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Scorn": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_Shapeshift": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SummonPoppi": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SpellOf_SpiritOfLight": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_ThrowingKnife": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_BurningFury": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_FightersFocus": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_GearRepair": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_HeavyBlow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_InnerHealing": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_Legion": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_PommelStrike": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_Sprint": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_StrongBack": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_Taunt": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_TempestStrike": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SkillOf_ThickSkin": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GemstoneOfInsight_Magic": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GemstoneOfInsight_Might": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ElephantSpear": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ElephantTusk": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ElephantBow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ThrumboAxe": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ThrumboSaber": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Ruunbled": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_ThrumBow": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_DemonFang": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_FireWand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_IceWand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_LightningWand": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_DefenderStaff": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_BlazingPowerStaff": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ManaPotion": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_MaestersCloak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "DemonLordCloak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "DarkRobe": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "AncientMail": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "RoyalArmor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_DreamcatcherBuckskin": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ArchMageRobe": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_WizardHat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ArcaneHood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "HoodOfMadness": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "RoyalHelm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ParagonHelm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_DreamcatcherCoronet": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_BracersOfThePacifist": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_BracersOfDefense": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_BracersOfDeflection": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_RingOfKeenIntellect": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_RingOfBlood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_RingOfEternalBlue": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_RingOfMalice": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_OrbOfConviction": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_OrbOfSouls": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_OrbOfSouls_Full": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_OrbOfEternal": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Artifact_NecroticOrb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_RawPomanasyrrium": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_RawPomanaMash": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "TM_Syrrium": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "UnfinishedArcane": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "UnfinishedAdvArcane": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "UnfinishedMartial": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -11538,91 +9910,91 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_spacer_emp": {
+  "PainkillerRib": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_spacer_fire": {
+  "AdrenalineRib": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_spacer": {
+  "DruggedRib": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_industrial_emp": {
+  "MedicalRib": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_industrial_fire": {
+  "SilentJaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_industrial": {
+  "BionicJaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_primitive_emp": {
+  "BionicFoot": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_primitive_fire": {
+  "BionicHand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12132,311 +10504,311 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_DemonR": {
+  "PowerArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserDemonR": {
+  "EarBandage": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Dire_WolfR": {
+  "WoodenFoot": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserEarth_ElementalR": {
+  "PegLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Earth_ElementalR": {
+  "Apparel_HC1Shield": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterEarth_ElementalR": {
+  "HookHand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserFire_ElementalR": {
+  "EyePatch": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Fire_ElementalR": {
+  "SteelArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterFire_ElementalR": {
+  "DiplomatCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserWater_ElementalR": {
+  "DoctorCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Water_ElementalR": {
+  "MinerCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterWater_ElementalR": {
+  "FarmerCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserWind_ElementalR": {
+  "ConstructorCore": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Wind_ElementalR": {
+  "TacticalCorneaImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterWind_ElementalR": {
+  "MuscleStimulator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_MinionR": {
+  "ExoskeletonSuit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterMinionR": {
+  "AdvancedBionicSpine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Lesser_SentinelR": {
+  "AdvancedBionicEye": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SentinelR": {
+  "AdvancedBionicJaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Greater_SentinelR": {
+  "AdvancedBionicEar": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SkeletonLichR": {
+  "AdvancedBionicFoot": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GiantSkeletonR": {
+  "AdvancedBionicLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SkeletonR": {
+  "AdvancedBionicArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SpiritBearR": {
+  "AdvancedBionicHand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SpiritMongooseR": {
+  "AdvancedPowerClaw": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SpiritCrowR": {
+  "AdvancedPowerArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_SpiritWolfR": {
+  "TableProsthetics": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Poppi": {
+  "TableOrgans": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12448,6 +10820,589 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "The Joris Experience",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_OCPants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_OCShirt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EMTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CannisterTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AutoMortar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ClusterMortar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "EMPAMortar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MissileTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CMissileTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FloodLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FissionBattery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Titanium": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AlphaPoly": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "BetaPoly": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MagneticCoil": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Silicon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ComputerComp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Ethanol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Bandage": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTEar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTLiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTHand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTFoot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GTDentures": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "OCExo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_APB-1Pistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_APB-1Projector": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_APB-1Rifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_EMRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MeleeWeapon_GTPacifier": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_MRGPistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_MRGRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_OCPDPistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_OCPDRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_OCRocket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_spacer_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_spacer_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_spacer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "denture": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_Race_Tank": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Glitter Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
