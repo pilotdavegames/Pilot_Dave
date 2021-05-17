@@ -12,6 +12,10 @@
     "version": "8.0.1"
   },
   {
+    "author": "pelador",
+    "name": "Proximity (Continued)"
+  },
+  {
     "author": "Roolo",
     "name": "Giddy-up! Core"
   },
@@ -39,13 +43,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.1.2.2"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.10"
+    "version": "1.1.2.3"
   },
   {
     "author": "hodlhodl",
@@ -72,6 +70,30 @@
     "version": "1.0.2.1"
   },
   {
+    "author": "Oskar Potocki, Smash Phil",
+    "name": "Vanilla Storytellers Expanded - Oskar Obnoxious",
+    "steamId": "2443118113",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Igor Invader"
+  },
+  {
+    "author": "Sam",
+    "name": "Glitter Tech"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Combat Readiness Check (Continued)",
+    "steamId": "2314304057",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering"
+  },
+  {
     "author": "Sandy",
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
@@ -88,10 +110,22 @@
     "name": "A Dog Said... Animal Prosthetics"
   },
   {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Reinforced Walls",
+    "steamId": "1929389479",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7751.22015"
+    "version": "1.0.7789.9895"
   },
   {
     "author": "UnlimitedHugs",
@@ -126,6 +160,16 @@
     "name": "Bionic icons"
   },
   {
+    "author": "Bar0th",
+    "name": "No Random Relations",
+    "steamId": "1754363066",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables"
+  },
+  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -143,7 +187,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.7"
+    "version": "1.2.0.9"
   },
   {
     "author": "dracoix",
@@ -168,6 +212,14 @@
     "name": "Pharmacist",
     "steamId": "1365242717",
     "version": "2.9.140"
+  },
+  {
+    "author": "Neceros",
+    "name": "Bulk Smelting"
+  },
+  {
+    "author": "Fuglypump and Neceros",
+    "name": "Bulk Stonecutting"
   },
   {
     "author": "Hatti",
@@ -277,7 +329,13 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.6.0"
+    "version": "3.1.7.0"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.7468.14677"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi",
@@ -430,10 +488,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kirby23590",
-    "name": "[KIR]No Mechanoid Raids"
-  },
-  {
     "author": "民火",
     "name": "Statue of Animal",
     "steamId": "1629099614",
@@ -442,6 +496,12 @@
   {
     "author": "Alan Dariva",
     "name": "More Planning"
+  },
+  {
+    "author": "Updated by Saucy_Pigeon",
+    "name": "Pawn Badge Fan Fork",
+    "steamId": "2112663412",
+    "version": "1.0.0.0"
   },
   {
     "author": "DEETS",
