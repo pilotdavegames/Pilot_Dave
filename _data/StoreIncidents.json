@@ -216,13 +216,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
-		"abr": "dropraid",
-		"price": 3500,
+		"abr": "raid",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,7 +237,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -347,7 +347,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
