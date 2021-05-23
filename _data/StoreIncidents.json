@@ -241,11 +241,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
-		"price": 4100,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -386,5 +381,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 76
 }
