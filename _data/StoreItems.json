@@ -820,7 +820,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": 1
+      "price": 3
     },
     {
       "abr": "haremeat",
@@ -3058,49 +3058,49 @@
       "abr": "trout",
       "category": "Raw fish",
       "defname": "VCEF_RawTrout",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "swordfish",
       "category": "Raw fish",
       "defname": "VCEF_RawSwordfish",
-      "price": 9
+      "price": 7
     },
     {
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "salmon",
       "category": "Raw fish",
       "defname": "VCEF_RawSalmon",
-      "price": 9
+      "price": 7
     },
     {
       "abr": "pufferfish",
       "category": "Raw fish",
       "defname": "VCEF_RawPufferfish",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "piranha",
       "category": "Raw fish",
       "defname": "VCEF_RawPiranha",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "perch",
       "category": "Raw fish",
       "defname": "VCEF_RawPerch",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "elephant",
@@ -3124,7 +3124,7 @@
       "abr": "mackerel",
       "category": "Raw fish",
       "defname": "VCEF_RawMackerel",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "hare",
@@ -3154,7 +3154,7 @@
       "abr": "spelopede",
       "category": "Animal",
       "defname": "Spelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "koi",
@@ -3178,7 +3178,7 @@
       "abr": "herring",
       "category": "Raw fish",
       "defname": "VCEF_RawHerring",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "husky",
@@ -3244,7 +3244,7 @@
       "abr": "haddock",
       "category": "Raw fish",
       "defname": "VCEF_RawHaddock",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "rat",
@@ -3256,7 +3256,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "deer",
@@ -3304,7 +3304,7 @@
       "abr": "eel",
       "category": "Raw fish",
       "defname": "VCEF_RawEel",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "cobra",
@@ -3346,7 +3346,7 @@
       "abr": "clownfish",
       "category": "Raw fish",
       "defname": "VCEF_RawClownfish",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "arcticwolf",
@@ -3394,7 +3394,7 @@
       "abr": "bass",
       "category": "Raw fish",
       "defname": "VCEF_RawBass",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "simpleprostheticanimalleg",
@@ -3406,7 +3406,7 @@
       "abr": "anglerfish",
       "category": "Raw fish",
       "defname": "VCEF_RawAnglerfish",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "simpleprostheticanimalarm",
@@ -3418,7 +3418,7 @@
       "abr": "angelfish",
       "category": "Raw fish",
       "defname": "VCEF_RawAngelfish",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "simpleanimalnose",
@@ -3430,7 +3430,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": 1
+      "price": 3
     },
     {
       "abr": "simpleanimaljawimplant",
@@ -5446,7 +5446,7 @@
       "abr": "ammocrate",
       "category": "Furniture",
       "defname": "VFES_AmmoCrate",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "apb-1pistol",
@@ -6148,7 +6148,7 @@
       "abr": "titanium",
       "category": "Raw resources",
       "defname": "Titanium",
-      "price": 53
+      "price": 45
     },
     {
       "abr": "voidjoris",
@@ -6185,7 +6185,253 @@
       "category": "Animal",
       "defname": "JE_ZombieJoris",
       "price": 1167
+    },
+    {
+      "abr": "amputator",
+      "category": "Melee weapons",
+      "defname": "RHMelee_DFAmputator",
+      "price": 3333
+    },
+    {
+      "abr": "behemothimplant",
+      "category": "Voidtech",
+      "defname": "VOIDArmorskin_Implant",
+      "price": 2300
+    },
+    {
+      "abr": "blackleapermeat",
+      "category": "Meat",
+      "defname": "Meat_RH_DF_BlackLeaper",
+      "price": 3
+    },
+    {
+      "abr": "businesssuitvoid",
+      "category": "Formal",
+      "defname": "RNApparel_BuisnessSuit_VOID",
+      "price": 742
+    },
+    {
+      "abr": "caviar",
+      "category": "MRE Rations",
+      "defname": "RN_Ration_Caviar",
+      "price": 67
+    },
+    {
+      "abr": "cloak(wastelandblack)",
+      "category": "Combat jackets",
+      "defname": "RHApparel_DFCloak_Black",
+      "price": 315
+    },
+    {
+      "abr": "corpseblaster",
+      "category": "Shotgun",
+      "defname": "RNGun_CorpseBlasterS",
+      "price": 425
+    },
+    {
+      "abr": "corpsedestroyer",
+      "category": "LMG and GPMG",
+      "defname": "RNGun_CorpseDestroyer",
+      "price": 700
+    },
+    {
+      "abr": "destructionimplant",
+      "category": "Voidtech",
+      "defname": "VOIDCombat_Implant",
+      "price": 1892
+    },
+    {
+      "abr": "duskcarbine",
+      "category": "AMR",
+      "defname": "RNGun_DuskCarbine",
+      "price": 600
+    },
+    {
+      "abr": "duskenforcer",
+      "category": "Pistol",
+      "defname": "RNGun_DuskEnforcer",
+      "price": 232
+    },
+    {
+      "abr": "duskmag",
+      "category": "Dead Frontier ranged",
+      "defname": "RNGun_DuskMAG",
+      "price": 8083
+    },
+    {
+      "abr": "duskrazor",
+      "category": "Melee weapons",
+      "defname": "RHMelee_DFDuskBlade",
+      "price": 5000
+    },
+    {
+      "abr": "duskstriker",
+      "category": "Shotgun",
+      "defname": "RNGun_DuskStrikerS",
+      "price": 675
+    },
+    {
+      "abr": "gau-19",
+      "category": "Dead Frontier ranged",
+      "defname": "RNGun_GAU19_Minigun",
+      "price": 8333
+    },
+    {
+      "abr": "gaussrifle",
+      "category": "AMR",
+      "defname": "RNGun_DFGAUSSrifle",
+      "price": 708
+    },
+    {
+      "abr": "geniusimplant",
+      "category": "Voidtech",
+      "defname": "VOIDBrain_Implant",
+      "price": 1892
+    },
+    {
+      "abr": "giantspidermeat",
+      "category": "Meat",
+      "defname": "Meat_RH_DF_GiantSpider",
+      "price": 3
+    },
+    {
+      "abr": "grinder",
+      "category": "Melee weapons",
+      "defname": "RHMelee_DFGrinder_Chainsaw",
+      "price": 7500
+    },
+    {
+      "abr": "impromptuimplant",
+      "category": "Voidtech",
+      "defname": "RH_VOIDSocialImplant",
+      "price": 2225
+    },
+    {
+      "abr": "nerotonin-8b",
+      "category": "Items",
+      "defname": "RH_Nerotonin8B",
+      "price": 4667
+    },
+    {
+      "abr": "nerotonin-vimplant",
+      "category": "Voidtech",
+      "defname": "VOIDHealing_Implant",
+      "price": 2892
+    },
+    {
+      "abr": "redwine",
+      "category": "Drugs",
+      "defname": "RH_RedWine",
+      "price": 20
+    },
+    {
+      "abr": "superseducerimplant",
+      "category": "Bionic",
+      "defname": "RH_AestheticShaper",
+      "price": 3717
+    },
+    {
+      "abr": "titanmeat",
+      "category": "Meat",
+      "defname": "Meat_RH_DF_Titan",
+      "price": 3
+    },
+    {
+      "abr": "violenceimplant",
+      "category": "Voidtech",
+      "defname": "VOIDMeleeCombat_Implant",
+      "price": 2225
+    },
+    {
+      "abr": "voidhelmet",
+      "category": "Powered armor helmets",
+      "defname": "RNApparel_ReactiveHelmet_VOID",
+      "price": 2000
+    },
+    {
+      "abr": "voidhelmet(cloak)",
+      "category": "Powered armor helmets",
+      "defname": "RNApparel_ReactiveHelmet_VOIDCloaked",
+      "price": 2000
+    },
+    {
+      "abr": "voidreactive",
+      "category": "Powered armor",
+      "defname": "RNApparel_VOIDReactive",
+      "price": 8333
+    },
+    {
+      "abr": "voidshieldbelt",
+      "category": "Apparel",
+      "defname": "RHApparel_RangedShieldBelt_VOID",
+      "price": 2900
+    },
+    {
+      "abr": "voidspeedskin",
+      "category": "Combat uniform",
+      "defname": "RNApparel_SpeedSkin_VOID",
+      "price": 4667
+    },
+    {
+      "abr": "voidtechear",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicEar",
+      "price": 1150
+    },
+    {
+      "abr": "voidtechhalf-cycler",
+      "category": "Voidtech",
+      "defname": "RH_VOIDCircadianHalfCycler",
+      "price": 2225
+    },
+    {
+      "abr": "voidtechheart",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicHeart",
+      "price": 1892
+    },
+    {
+      "abr": "voidtechkidney",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicKidney",
+      "price": 1817
+    },
+    {
+      "abr": "voidtechliver",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicLiver",
+      "price": 1817
+    },
+    {
+      "abr": "voidtechlung",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicLung",
+      "price": 1483
+    },
+    {
+      "abr": "voidtechnose",
+      "category": "Voidtech",
+      "defname": "RH_VOIDAestheticNose",
+      "price": 1483
+    },
+    {
+      "abr": "voidtechspine",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicSpine",
+      "price": 2242
+    },
+    {
+      "abr": "voidtechstomach",
+      "category": "Voidtech",
+      "defname": "RH_VOIDBionicStomach",
+      "price": 2225
+    },
+    {
+      "abr": "wraithmeat",
+      "category": "Meat",
+      "defname": "Meat_RH_DF_Wraith",
+      "price": 3
     }
   ],
-  "total": 1031
+  "total": 1072
 }
