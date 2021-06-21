@@ -13,7 +13,9 @@
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "jecrell and contributors",
@@ -23,7 +25,9 @@
   },
   {
     "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "VouLT",
@@ -33,23 +37,33 @@
   },
   {
     "author": "AUTOMATIC",
-    "name": "Bionic icons"
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
-    "name": "CleaningArea"
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "tikubonn",
-    "name": "DontBlockDoor[1.0-1.2]"
+    "name": "DontBlockDoor[1.0-1.2]",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "dracoix",
-    "name": "Door Mat"
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Falconne",
-    "name": "Heat Map"
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -65,7 +79,9 @@
   },
   {
     "author": "DnaJur",
-    "name": "ReLearn - 0.3.3"
+    "name": "ReLearn - 0.3.3",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -75,7 +91,9 @@
   },
   {
     "author": "gguake",
-    "name": "Simple Search Bar"
+    "name": "Simple Search Bar",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -97,15 +115,21 @@
   },
   {
     "author": "EdB",
-    "name": "EdB Prepare Carefully"
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs (Legacy Version)"
+    "name": "[FSF] Complex Jobs (Legacy Version)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Velc",
-    "name": "Trap Disable"
+    "name": "Trap Disable",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -145,7 +169,9 @@
   },
   {
     "author": "Linkolas",
-    "name": "Stabilize"
+    "name": "Stabilize",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi",
@@ -155,11 +181,15 @@
   },
   {
     "author": "dhultgren",
-    "name": "Smarter Construction"
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo",
-    "name": "RunAndGun"
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "balistafreak",
@@ -169,11 +199,15 @@
   },
   {
     "author": "CodeOptimist",
-    "name": "Jobs of Opportunity (While You're Up)"
+    "name": "Jobs of Opportunity (While You're Up)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
-    "name": "Metal Don't Burn"
+    "name": "Metal Don't Burn",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -191,7 +225,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.2"
+    "version": "6.0.2.0"
   },
   {
     "author": "SirRandoo",
@@ -201,15 +235,21 @@
   },
   {
     "author": "Ivelischt",
-    "name": "Hay doesn't need Cooling!"
+    "name": "Hay doesn't need Cooling!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Weapons Expanded"
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kaan Genc",
-    "name": "Meals Never Cause Food Poisoning"
+    "name": "Meals Never Cause Food Poisoning",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "the_codewarrior",
@@ -225,11 +265,15 @@
   },
   {
     "author": "Jaxe",
-    "name": "RimHUD"
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CodeOptimist",
-    "name": "CodeOptimist's Assorted Alterations"
+    "name": "CodeOptimist's Assorted Alterations",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kiame Vivacity",
@@ -251,7 +295,9 @@
   },
   {
     "author": "void",
-    "name": "Deep Stack"
+    "name": "Deep Stack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NoImageAvailable",
@@ -261,15 +307,21 @@
   },
   {
     "author": "LinaFromSweden",
-    "name": "SimplyMoreFloors"
+    "name": "SimplyMoreFloors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
-    "name": "Simply More Bridges - Medieval"
+    "name": "Simply More Bridges - Medieval",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Billy Martin (original) & Kiame Vivacity",
-    "name": "Improved Load Transport Pods"
+    "name": "Improved Load Transport Pods",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -279,23 +331,33 @@
   },
   {
     "author": "Saucy_Pigeon",
-    "name": "Add Transport Pod"
+    "name": "Add Transport Pod",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "dickmosi",
-    "name": "Better Flagstone"
+    "name": "Better Flagstone",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Freya Fierce"
+    "name": "Vanilla Storytellers Expanded - Freya Fierce",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Apparel Expanded"
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
-    "name": "Simple Turrets"
+    "name": "Simple Turrets",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "targhetti",
@@ -317,11 +379,15 @@
   },
   {
     "author": "Syrchalis",
-    "name": "[SYR] Neuter"
+    "name": "[SYR] Neuter",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "DEETS",
-    "name": "Extended Colors - Standing Lamps"
+    "name": "Extended Colors - Standing Lamps",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -337,7 +403,9 @@
   },
   {
     "author": "PeteTimesSix",
-    "name": "Simple sidearms"
+    "name": "Simple sidearms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PorqueNoLosDos (Updated By CrashM)",
@@ -353,7 +421,9 @@
   },
   {
     "author": "Ben",
-    "name": "Automatic Night Owl"
+    "name": "Automatic Night Owl",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sandy",
@@ -363,7 +433,9 @@
   },
   {
     "author": "Roolo",
-    "name": "Giddy-up! Core"
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo",
@@ -373,11 +445,15 @@
   },
   {
     "author": "Roolo",
-    "name": "Giddy-up! Caravan"
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts"
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -399,7 +475,9 @@
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded"
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oblitus",
@@ -421,15 +499,21 @@
   },
   {
     "author": "pelador",
-    "name": "Proximity (Continued)"
+    "name": "Proximity (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fuglypump and Neceros",
-    "name": "Bulk Stonecutting"
+    "name": "Bulk Stonecutting",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
-    "name": "Bulk Smelting"
+    "name": "Bulk Smelting",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -445,11 +529,15 @@
   },
   {
     "author": "4loris4",
-    "name": "More Linkables"
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering"
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
@@ -465,11 +553,15 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Plants Expanded"
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dyrewulfe",
-    "name": "Better Message Placement (Continued)"
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -479,11 +571,15 @@
   },
   {
     "author": "PlayIgel, Alastair, Kayedon, SalmonToastie",
-    "name": "VFME - Caravan Packs!"
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
-    "name": "Pick Up And Haul"
+    "name": "Pick Up And Haul",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SickBoyWI",
@@ -493,11 +589,15 @@
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Igor Invader"
+    "name": "Vanilla Storytellers Expanded - Igor Invader",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings"
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Smash Phil",
@@ -513,19 +613,33 @@
   },
   {
     "author": "Zylle",
-    "name": "Gemstones"
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kirby23590",
-    "name": "[KIR]No Mechanoid Raids"
+    "name": "[KIR]No Mechanoid Raids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Distman (Ministry Of Mom)",
-    "name": "Medieval Royalty Faction"
+    "name": "Medieval Royalty Faction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Alan Dariva",
-    "name": "More Planning"
+    "name": "More Planning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kegarr",
+    "name": "Skill Potions",
+    "steamId": "2522940270",
+    "version": "1.0.0.0"
   },
   {
     "author": "Epicguru (James B)",
