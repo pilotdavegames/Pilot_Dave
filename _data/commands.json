@@ -758,20 +758,7 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "mod": null
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitRimWorld"
     },
     "description": null,
     "name": "hello",
