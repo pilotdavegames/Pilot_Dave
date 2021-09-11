@@ -17,7 +17,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 700,
 		"karmatype": "Neutral"
 	},
 	{
@@ -32,7 +32,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -152,13 +147,13 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
-		"karmatype": "Good"
+		"price": 300,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "farmanimals",
@@ -282,7 +277,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -421,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 83
 }
