@@ -9,7 +9,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.5.0"
   },
   {
     "author": "Dubwise",
@@ -151,9 +151,9 @@
   },
   {
     "author": "CodeOptimist",
-    "name": "Jobs of Opportunity (While You're Up)",
+    "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "2.1.4.8512"
+    "version": "3.1.3.1371"
   },
   {
     "author": "AUTOMATIC",
@@ -276,10 +276,10 @@
     "version": null
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3074.1"
+    "version": "1.3.3102.1"
   },
   {
     "author": "MarvinKosh",
@@ -327,6 +327,48 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.2"
+    "version": "6.1.5.1"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.7895.35757"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.15"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Bulk Smelting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2195"
   }
 ]
