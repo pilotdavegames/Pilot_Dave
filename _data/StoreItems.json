@@ -1658,7 +1658,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "YorkshireTerrier"
 	},
@@ -1688,7 +1688,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Squirrel"
 	},
@@ -1736,7 +1736,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Rat"
 	},
@@ -2240,7 +2240,7 @@
 	},
 	{
 		"abr": "beartrap",
-		"price": 236,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_BearTrap"
 	},
@@ -4064,7 +4064,7 @@
 	},
 	{
 		"abr": "effigy",
-		"price": 178,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Effigy"
 	},
@@ -4154,13 +4154,13 @@
 	},
 	{
 		"abr": "morbidslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MorbidSlab_Broad"
 	},
 	{
 		"abr": "morbidslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MorbidSlab_Medium"
 	},
@@ -5339,7 +5339,43 @@
 		"price": 52,
 		"category": "Hygiene",
 		"defname": "WashBucket"
+	},
+	{
+		"abr": "accurate-auto-jortar",
+		"price": 5950,
+		"category": "Security",
+		"defname": "Turret_AccurateAutoJortar"
+	},
+	{
+		"abr": "multi-mega-jluggerturret",
+		"price": 4617,
+		"category": "Security",
+		"defname": "Turret_MultiMegaJluggerTurret"
+	},
+	{
+		"abr": "multi-micro-jluggerturret",
+		"price": 3683,
+		"category": "Security",
+		"defname": "Turret_MicroMultiJluggerTurret"
+	},
+	{
+		"abr": "multi-mini-jluggerturret",
+		"price": 3208,
+		"category": "Security",
+		"defname": "Turret_MiniMultiJluggerTurret"
+	},
+	{
+		"abr": "harewool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolHare"
+	},
+	{
+		"abr": "snowharewool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolSnowhare"
 	}
 	],
-	"total": 890
+	"total": 896
 }
