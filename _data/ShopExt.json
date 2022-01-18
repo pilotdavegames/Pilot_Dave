@@ -182,8 +182,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1200,
-      "removePrice": 1200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -584,8 +584,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1200,
-      "removePrice": 1200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
