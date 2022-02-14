@@ -122,8 +122,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1200,
-      "removePrice": 1200,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -1381,7 +1381,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "description": "Timmy loves to start and watch fires. he get stressed and anxious if not allowed to do so for an extended period of time, but will be happier if allowed to do so. he also enjoys using incendiary weapons and will only go on fire-starting sprees when having a mental break.",
       "stats": [
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -2056,8 +2056,8 @@
       "name": "germaphobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1200,
+      "removePrice": 1200,
       "degree": 2
     },
     {
@@ -2086,8 +2086,8 @@
       "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1200,
+      "removePrice": 1200,
       "degree": 1
     },
     {
@@ -2116,8 +2116,8 @@
       "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1200,
+      "removePrice": 1200,
       "degree": -1
     },
     {
@@ -2146,8 +2146,8 @@
       "name": "slob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1200,
+      "removePrice": 1200,
       "degree": -2
     }
   ],
@@ -2173,6 +2173,33 @@
       "enabled": true,
       "name": "human",
       "price": 2900
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-108.0F [-60.0C] Minimum comfortable temperature",
+          "+360.0F [200.0C] Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Zombieland",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }
