@@ -1165,40 +1165,10 @@
 		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "longbow",
-		"price": 197,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Long"
-	},
-	{
 		"abr": "parka",
 		"price": 315,
 		"category": "Apparel",
 		"defname": "Apparel_Parka"
-	},
-	{
-		"abr": "throwingrocks",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VWE_Throwing_Rocks"
-	},
-	{
-		"abr": "whip",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VWE_Tool_Whip"
-	},
-	{
-		"abr": "throwingknives",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VWE_Throwing_Knives"
-	},
-	{
-		"abr": "flintlock",
-		"price": 275,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Flintlock"
 	},
 	{
 		"abr": "pants",
@@ -1207,22 +1177,10 @@
 		"defname": "Apparel_Pants"
 	},
 	{
-		"abr": "musket",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Musket"
-	},
-	{
 		"abr": "t-shirt",
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_BasicShirt"
-	},
-	{
-		"abr": "crossbow",
-		"price": 358,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Crossbow"
 	},
 	{
 		"abr": "button-downshirt",
@@ -1345,18 +1303,6 @@
 		"defname": "Bow_Great"
 	},
 	{
-		"abr": "compoundbow",
-		"price": 240,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Compound"
-	},
-	{
-		"abr": "hatchet",
-		"price": 147,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Axe"
-	},
-	{
 		"abr": "muffalo",
 		"price": 500,
 		"category": "Animals",
@@ -1391,12 +1337,6 @@
 		"price": 1167,
 		"category": "Animals",
 		"defname": "Bear_Polar"
-	},
-	{
-		"abr": "halberd",
-		"price": 483,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Halberd"
 	},
 	{
 		"abr": "cougar",
@@ -1435,22 +1375,10 @@
 		"defname": "Ostrich"
 	},
 	{
-		"abr": "hammer",
-		"price": 281,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Hammer"
-	},
-	{
 		"abr": "turkey",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Turkey"
-	},
-	{
-		"abr": "pickaxe",
-		"price": 248,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Pickaxe"
 	},
 	{
 		"abr": "chicken",
@@ -2239,22 +2167,10 @@
 		"defname": "TMB_StatueOfAnimal2x"
 	},
 	{
-		"abr": "beartrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "VFES_BearTrap"
-	},
-	{
 		"abr": "kitchencupboard",
 		"price": 176,
 		"category": "Misc",
 		"defname": "KitchenCupboard"
-	},
-	{
-		"abr": "battleaxe",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_BattleAxe"
 	},
 	{
 		"abr": "advancedcomponent",
@@ -2281,22 +2197,10 @@
 		"defname": "AestheticShaper"
 	},
 	{
-		"abr": "ammocrate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "VFES_AmmoCrate"
-	},
-	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
-	},
-	{
-		"abr": "anti-materialrifle",
-		"price": 1717,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_AntiMaterialRifle"
 	},
 	{
 		"abr": "archotecharm",
@@ -2317,22 +2221,10 @@
 		"defname": "ArchotechLeg"
 	},
 	{
-		"abr": "archotechshieldgenerator",
-		"price": 4667,
-		"category": "Special",
-		"defname": "VFES_ShieldGenerator_Archotech"
-	},
-	{
 		"abr": "armorskingland",
 		"price": 2458,
 		"category": "Bionic",
 		"defname": "ArmorskinGland"
-	},
-	{
-		"abr": "artillery",
-		"price": 1408,
-		"category": "Security",
-		"defname": "VFES_Turret_Artillery"
 	},
 	{
 		"abr": "assaultrifle",
@@ -2347,22 +2239,10 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "baton",
-		"price": 206,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Baton"
-	},
-	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
 		"defname": "Battery"
-	},
-	{
-		"abr": "battlerifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_BattleRifle"
 	},
 	{
 		"abr": "bionicarm",
@@ -2401,12 +2281,6 @@
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "carbine",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Carbine"
-	},
-	{
 		"abr": "cataphractarmor",
 		"price": 5200,
 		"category": "Armor",
@@ -2431,64 +2305,10 @@
 		"defname": "Gun_ChargeLance"
 	},
 	{
-		"abr": "chargelmg",
-		"price": 2833,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeLMG"
-	},
-	{
-		"abr": "chargeminigun",
-		"price": 5458,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeMinigun"
-	},
-	{
-		"abr": "chargepistol",
-		"price": 1008,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargePistol"
-	},
-	{
 		"abr": "chargerifle",
 		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
-	},
-	{
-		"abr": "chargerocketlauncher",
-		"price": 11667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeRocketLauncher"
-	},
-	{
-		"abr": "chargeshotgun",
-		"price": 1683,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeShotgun"
-	},
-	{
-		"abr": "chargesmg",
-		"price": 1508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeSMG"
-	},
-	{
-		"abr": "chargesniperrifle",
-		"price": 2050,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeSniperRifle"
-	},
-	{
-		"abr": "chargeturret",
-		"price": 1358,
-		"category": "Security",
-		"defname": "VFES_Turret_ChargeTurret"
-	},
-	{
-		"abr": "chemfuelbarrel",
-		"price": 296,
-		"category": "Security",
-		"defname": "VFES_ChemfuelBarrel"
 	},
 	{
 		"abr": "circadianassistant",
@@ -2503,12 +2323,6 @@
 		"defname": "CircadianHalfCycler"
 	},
 	{
-		"abr": "cleaver",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Cleaver"
-	},
-	{
 		"abr": "coagulator",
 		"price": 1717,
 		"category": "Bionic",
@@ -2521,40 +2335,16 @@
 		"defname": "CochlearImplant"
 	},
 	{
-		"abr": "combathandgun",
-		"price": 291,
-		"category": "Ranged weapons",
-		"defname": "VWE_CombatHandgun"
-	},
-	{
-		"abr": "combatknife",
-		"price": 205,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_CombatKnife"
-	},
-	{
 		"abr": "deathacidifier",
 		"price": 667,
 		"category": "Bionic",
 		"defname": "DeathAcidifier"
 	},
 	{
-		"abr": "decoy",
-		"price": 140,
-		"category": "Security",
-		"defname": "VFES_Turret_Decoy"
-	},
-	{
 		"abr": "deepdrill",
 		"price": 483,
 		"category": "Production",
 		"defname": "DeepDrill"
-	},
-	{
-		"abr": "deployableturret",
-		"price": 983,
-		"category": "Security",
-		"defname": "VFES_Turret_FloorTurret"
 	},
 	{
 		"abr": "detoxifierstomach",
@@ -2671,12 +2461,6 @@
 		"defname": "FieldHand"
 	},
 	{
-		"abr": "fireextinguisher",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_FireExtinguisher"
-	},
-	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
@@ -2719,24 +2503,6 @@
 		"defname": "Flake"
 	},
 	{
-		"abr": "flameturret",
-		"price": 1117,
-		"category": "Security",
-		"defname": "VFES_Turret_Flame"
-	},
-	{
-		"abr": "flamethrower",
-		"price": 667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Flamethrower"
-	},
-	{
-		"abr": "flashgrenades",
-		"price": 525,
-		"category": "Grenades",
-		"defname": "VWE_FlashGrenade"
-	},
-	{
 		"abr": "flatscreentelevision",
 		"price": 1533,
 		"category": "Recreation",
@@ -2767,12 +2533,6 @@
 		"defname": "GoJuice"
 	},
 	{
-		"abr": "grenadelauncher",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_GrenadeLauncher"
-	},
-	{
 		"abr": "grenadierarmor",
 		"price": 3842,
 		"category": "Armor",
@@ -2783,12 +2543,6 @@
 		"price": 575,
 		"category": "Headgear",
 		"defname": "Apparel_Gunlink"
-	},
-	{
-		"abr": "handcannon",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HandCannon"
 	},
 	{
 		"abr": "handtalon",
@@ -2825,12 +2579,6 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
-	},
-	{
-		"abr": "hmg",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HMG"
 	},
 	{
 		"abr": "hospitalbed",
@@ -2929,28 +2677,10 @@
 		"defname": "KneeSpike"
 	},
 	{
-		"abr": "landmine",
-		"price": 261,
-		"category": "Security",
-		"defname": "VFES_Landmine"
-	},
-	{
 		"abr": "learningassistant",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "LearningAssistant"
-	},
-	{
-		"abr": "lever-actionrifle",
-		"price": 408,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_LeverActionRifle"
-	},
-	{
-		"abr": "lightsmg",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_LightSMG"
 	},
 	{
 		"abr": "lmg",
@@ -3007,12 +2737,6 @@
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
-		"abr": "marksmanrifle",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MarksmanRifle"
-	},
-	{
 		"abr": "mechaniccabinet",
 		"price": 1558,
 		"category": "Misc",
@@ -3029,12 +2753,6 @@
 		"price": 2475,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
-	},
-	{
-		"abr": "militaryturret",
-		"price": 842,
-		"category": "Security",
-		"defname": "VFES_Turret_MilitaryTurret"
 	},
 	{
 		"abr": "mindscrew",
@@ -3239,12 +2957,6 @@
 		"price": 1083,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance"
-	},
-	{
-		"abr": "psychicpylon",
-		"price": 2167,
-		"category": "Special",
-		"defname": "VFES_PsychicPylon"
 	},
 	{
 		"abr": "psychicreader",
@@ -3487,58 +3199,16 @@
 		"defname": "Gun_Revolver"
 	},
 	{
-		"abr": "rocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_RocketLauncher"
-	},
-	{
 		"abr": "safe",
 		"price": 1017,
 		"category": "Furniture",
 		"defname": "LWM_Safe"
 	},
 	{
-		"abr": "sawed-offshotgun",
-		"price": 297,
-		"category": "Ranged weapons",
-		"defname": "VWE_SawedOffShotgun"
-	},
-	{
-		"abr": "scalpel",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Scalpel"
-	},
-	{
 		"abr": "scientistcabinet",
 		"price": 2425,
 		"category": "Misc",
 		"defname": "ToolCabinetC"
-	},
-	{
-		"abr": "searchlight",
-		"price": 475,
-		"category": "Security",
-		"defname": "VFES_Turret_Searchlight"
-	},
-	{
-		"abr": "semi-automaticrifle",
-		"price": 408,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_SemiAutomaticRifle"
-	},
-	{
-		"abr": "sentrygun",
-		"price": 1058,
-		"category": "Security",
-		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "servicerifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ServiceRifle"
 	},
 	{
 		"abr": "shieldbelt",
@@ -3557,12 +3227,6 @@
 		"price": 185,
 		"category": "Misc",
 		"defname": "ShipLandingBeacon"
-	},
-	{
-		"abr": "shovel",
-		"price": 327,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Shovel"
 	},
 	{
 		"abr": "simpleprostheticarm",
@@ -3647,24 +3311,6 @@
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
-	},
-	{
-		"abr": "smallshieldgenerator",
-		"price": 3983,
-		"category": "Security",
-		"defname": "VFES_ShieldGenerator_Small"
-	},
-	{
-		"abr": "smg",
-		"price": 558,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_SMG"
-	},
-	{
-		"abr": "smokegrenades",
-		"price": 215,
-		"category": "Grenades",
-		"defname": "VWE_SmokeGrenade"
 	},
 	{
 		"abr": "smokelauncher",
@@ -3779,12 +3425,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
-	},
-	{
-		"abr": "toxicgrenades",
-		"price": 1417,
-		"category": "Grenades",
-		"defname": "VWE_ToxicGrenade"
 	},
 	{
 		"abr": "triplerocketlauncher",
@@ -3917,12 +3557,6 @@
 		"price": 237,
 		"category": "Furniture",
 		"defname": "LWM_WeaponsLocker"
-	},
-	{
-		"abr": "wrench",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Wrench"
 	},
 	{
 		"abr": "yayo",
@@ -5375,7 +5009,319 @@
 		"price": 4,
 		"category": "Wools",
 		"defname": "WoolSnowhare"
-	}
+	},
+	{
+		"abr": "antiairgun",
+		"price": 3392,
+		"category": "Security",
+		"defname": "FT_TurretAA"
+	},
+	{
+		"abr": "antitankgun",
+		"price": 3617,
+		"category": "Security",
+		"defname": "FT_TurretAT"
+	},
+	{
+		"abr": "anti-materielrifle",
+		"price": 1225,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSAMRifle"
+	},
+	{
+		"abr": "assaultcharger",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultCharger"
+	},
+	{
+		"abr": "autocannon",
+		"price": 667,
+		"category": "Security",
+		"defname": "FT_AutoCannon"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBattleRifle"
+	},
+	{
+		"abr": "blowgun",
+		"price": 170,
+		"category": "Ranged weapons",
+		"defname": "Gun_Blowgun"
+	},
+	{
+		"abr": "bugbomblauncher",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "Gun_AJX_BugBombLauncher"
+	},
+	{
+		"abr": "bugbombshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_BugBomb"
+	},
+	{
+		"abr": "bugbombs",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeBug"
+	},
+	{
+		"abr": "burstcharger",
+		"price": 2125,
+		"category": "Ranged weapons",
+		"defname": "Gun_BurstCharger"
+	},
+	{
+		"abr": "carbine",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSCarbine"
+	},
+	{
+		"abr": "chargedriver",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeDriver"
+	},
+	{
+		"abr": "chargeinfantyrifle",
+		"price": 1842,
+		"category": "Ranged weapons",
+		"defname": "Gun_CFR"
+	},
+	{
+		"abr": "chargesidearm",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeSidearm"
+	},
+	{
+		"abr": "chemistrytable",
+		"price": 1767,
+		"category": "Production",
+		"defname": "FT_TableChemistry"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound"
+	},
+	{
+		"abr": "concretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_Barrier"
+	},
+	{
+		"abr": "concreteblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_BlocksConcrete"
+	},
+	{
+		"abr": "concretemixer",
+		"price": 600,
+		"category": "Production",
+		"defname": "FT_TableConcrete"
+	},
+	{
+		"abr": "diagonalconcretebarrier",
+		"price": 16,
+		"category": "Security",
+		"defname": "FT_BarrierDiagonal"
+	},
+	{
+		"abr": "duskcarbine",
+		"price": 1642,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Carbine"
+	},
+	{
+		"abr": "duskcloak",
+		"price": 275,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak"
+	},
+	{
+		"abr": "duskenforcer",
+		"price": 658,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Enforcer"
+	},
+	{
+		"abr": "duskhelmet",
+		"price": 1058,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet"
+	},
+	{
+		"abr": "duskhood",
+		"price": 73,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood"
+	},
+	{
+		"abr": "duskhoodedhelmet",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded"
+	},
+	{
+		"abr": "duskkris",
+		"price": 933,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Kris"
+	},
+	{
+		"abr": "dusklauncher",
+		"price": 1617,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Launcher"
+	},
+	{
+		"abr": "duskmag",
+		"price": 1750,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_MAG"
+	},
+	{
+		"abr": "duskmesh",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "DF_Dusk_Mesh"
+	},
+	{
+		"abr": "duskrazor",
+		"price": 1808,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Razor"
+	},
+	{
+		"abr": "dusksaw",
+		"price": 2117,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Saw"
+	},
+	{
+		"abr": "dusksmg",
+		"price": 1058,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_SMG"
+	},
+	{
+		"abr": "duskstriker",
+		"price": 1650,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Striker"
+	},
+	{
+		"abr": "duskwintercloak",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur"
+	},
+	{
+		"abr": "duskwintercloak(black)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_Black"
+	},
+	{
+		"abr": "duskwintercloak(golden)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_Gold"
+	},
+	{
+		"abr": "duskwintercloak(white)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_White"
+	},
+	{
+		"abr": "duskwinterhood",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur"
+	},
+	{
+		"abr": "duskwinterhood(black)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_Black"
+	},
+	{
+		"abr": "duskwinterhood(golden)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_Gold"
+	},
+	{
+		"abr": "duskwinterhood(white)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_White"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet",
+		"price": 1175,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(black)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_Black"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(golden)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_Gold"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(white)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_White"
+	},
+	{
+		"abr": "dye",
+		"price": 13,
+		"category": "Plant matter",
+		"defname": "Dye"
+	},
+	{
+		"abr": "e.n.i.a.c.",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "FT_ENIAC"
+	},
+	{
+		"abr": "empdischarger",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPRifle"
+	},
+	{
+		"abr": "fiberconcreteplank",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "FT_WoodConcrete"
+	},
 	],
-	"total": 896
+	"total": 940
 }
