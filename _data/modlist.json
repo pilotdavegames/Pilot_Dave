@@ -12,6 +12,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -52,12 +58,6 @@
     "name": "Dubs Break Mod",
     "steamId": "1722398508",
     "version": "1.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.9.2.0"
   },
   {
     "author": "rooki1",
@@ -144,6 +144,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "Billy Martin (original) & Kiame Vivacity",
     "name": "Improved Load Transport Pods",
     "steamId": null,
@@ -159,7 +165,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -183,7 +189,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
-    "version": "1.0.0.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -192,10 +198,16 @@
     "version": "1.0.379.0018"
   },
   {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "CodeOptimist",
@@ -237,7 +249,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7969.5967"
+    "version": "1.0.8084.14260"
   },
   {
     "author": "void",
@@ -492,10 +504,22 @@
     "version": null
   },
   {
+    "author": "Kaan Genc",
+    "name": "Meals Never Cause Food Poisoning",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Damian Pauaqq Pawlak",
     "name": "Weaker Breach Axe and Termite Gun",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
