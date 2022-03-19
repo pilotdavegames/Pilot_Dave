@@ -6,16 +6,16 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "bradson",
+    "name": "Better Log - Fix your errors with style",
+    "steamId": "2772559481",
+    "version": "1.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.1"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
@@ -60,12 +60,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tikubonn",
     "name": "DontBlockDoor",
     "steamId": null,
@@ -96,8 +90,8 @@
     "version": "1.3.0.1"
   },
   {
-    "author": "Harkon and JangoD'soul",
-    "name": "Dusk Armory",
+    "author": "DanDMan68",
+    "name": "Cursed Guns",
     "steamId": null,
     "version": null
   },
@@ -124,6 +118,12 @@
     "name": "Stop, Drop, And Roll! [BAL]",
     "steamId": "2362707956",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "DanDman68",
+    "name": "Onesies",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "4loris4",
@@ -166,6 +166,12 @@
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
     "version": "1.3.4"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.2.4.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -262,12 +268,6 @@
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs (Legacy Version)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Uuugggg",
@@ -402,6 +402,12 @@
     "version": null
   },
   {
+    "author": "Kegarr",
+    "name": "Bulk Shells and Components",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Phomor",
     "name": "Doors Close Fast Again",
     "steamId": "1542005231",
@@ -432,16 +438,22 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neceros",
     "name": "Bulk Smelting",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
+    "author": "Neceros",
+    "name": "Faster Smoothing",
+    "steamId": "1807439023",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -462,6 +474,12 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zylle",
     "name": "Gemstones",
     "steamId": null,
@@ -472,6 +490,12 @@
     "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "crazedmonkey231",
+    "name": "Stuffable Vanilla Armor",
+    "steamId": "2555543758",
+    "version": "1.0.0.0"
   },
   {
     "author": "Alan Dariva and  Usagirei",
@@ -486,8 +510,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Temeez",
-    "name": "Floor Lights",
+    "author": "Ellit",
+    "name": "Glitterpaths",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
+    "name": "VFME - Caravan Packs!",
     "steamId": null,
     "version": null
   },
@@ -498,14 +528,14 @@
     "version": null
   },
   {
-    "author": "Scurvyez",
-    "name": "StevesWalls",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
   },
   {
-    "author": "Kaan Genc",
-    "name": "Meals Never Cause Food Poisoning",
+    "author": "Scurvyez",
+    "name": "StevesWalls",
     "steamId": null,
     "version": null
   },
@@ -552,6 +582,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Zero747",
+    "name": "Cozy Power Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Work Tab",
     "steamId": "725219116",
@@ -568,5 +604,17 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs (Legacy Version)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
