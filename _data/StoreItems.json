@@ -124,7 +124,7 @@
       "abr": "stool",
       "category": "Furniture",
       "defname": "Stool",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "diningchair",
@@ -784,7 +784,7 @@
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "emuegg(fert.)",
@@ -2152,19 +2152,19 @@
       "abr": "weaponscabinet",
       "category": "Furniture",
       "defname": "LWM_WeaponsCabinet",
-      "price": 254
+      "price": -10
     },
     {
       "abr": "statueofanimal(1x1)(blueprint)",
       "category": "Art",
       "defname": "TMB_StatueOfAnimal1x",
-      "price": 358
+      "price": 400
     },
     {
       "abr": "statueofanimal(2x2)(blueprint)",
       "category": "Art",
       "defname": "TMB_StatueOfAnimal2x",
-      "price": 1258
+      "price": 1250
     },
     {
       "abr": "kitchencupboard",
@@ -3370,7 +3370,7 @@
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": 129
+      "price": 500
     },
     {
       "abr": "surgicalinstruments",
@@ -3472,85 +3472,85 @@
       "abr": "walllight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLight",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(azure)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightAzure",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(blue)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightBlue",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(cyan)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightCyan",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(green)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightGreen",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(magenta)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(orange)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightOrange",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(red)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRed",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(rose)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRose",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(violet)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightViolet",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "walllight(yellow)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightYellow",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "weaponslocker",
@@ -3574,13 +3574,13 @@
       "abr": "animalistslab(broad)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "animalistslab(medium)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "ark",
@@ -3616,7 +3616,7 @@
       "abr": "bonsaipot",
       "category": "Furniture",
       "defname": "PlantPot_Bonsai",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "box",
@@ -3724,7 +3724,7 @@
       "abr": "gauranlenseed",
       "category": "Items",
       "defname": "GauranlenSeed",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "gibbetcage",
@@ -3760,13 +3760,13 @@
       "abr": "kneelpillow",
       "category": "Furniture",
       "defname": "KneelPillow",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "kneelsheet",
       "category": "Furniture",
       "defname": "KneelSheet",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "lectern",
@@ -3820,7 +3820,7 @@
       "abr": "pew",
       "category": "Furniture",
       "defname": "Pew",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "pyre",
@@ -4000,7 +4000,7 @@
       "abr": "walldarklight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightDark",
-      "price": 16
+      "price": 20
     },
     {
       "abr": "arcademachine",
@@ -4192,7 +4192,7 @@
       "abr": "shelf(1x1)",
       "category": "Furniture",
       "defname": "Shelf_1x1c",
-      "price": 52
+      "price": -10
     },
     {
       "abr": "simplebed",
@@ -4204,7 +4204,7 @@
       "abr": "sittingcushion",
       "category": "Furniture",
       "defname": "Seat_Cushion",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "slabbed",
@@ -4228,13 +4228,13 @@
       "abr": "table(1x1)",
       "category": "Furniture",
       "defname": "Table_1x1c",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "uprightpiano",
       "category": "Furniture",
       "defname": "Joy_Piano",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "vitalscentre",
@@ -4252,7 +4252,7 @@
       "abr": "weaponrack",
       "category": "Furniture",
       "defname": "Shelf_WeaponRack",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "youthserum",
@@ -4264,7 +4264,7 @@
       "abr": "animalprostheticstable",
       "category": "Production",
       "defname": "TableAnimalProsthetics",
-      "price": 367
+      "price": 800
     },
     {
       "abr": "bionicanimalarm",
@@ -4816,7 +4816,7 @@
       "abr": "latrine",
       "category": "Hygiene",
       "defname": "PitLatrine",
-      "price": 55
+      "price": 60
     },
     {
       "abr": "litterbox",
@@ -4900,7 +4900,7 @@
       "abr": "plumbingvalve",
       "category": "Hygiene",
       "defname": "plumbingValve",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "powershower",
@@ -4918,7 +4918,7 @@
       "abr": "saunaseating",
       "category": "Furniture",
       "defname": "DBHSaunaSeating",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "shower",
@@ -4930,7 +4930,7 @@
       "abr": "simpleshower",
       "category": "Hygiene",
       "defname": "ShowerSimple",
-      "price": 52
+      "price": -10
     },
     {
       "abr": "smarttoilet",
@@ -4942,7 +4942,7 @@
       "abr": "thermostat",
       "category": "Hygiene",
       "defname": "Thermostat",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "toilet",
@@ -4954,7 +4954,7 @@
       "abr": "towelrail",
       "category": "Hygiene",
       "defname": "RadiatorTowelRail",
-      "price": 85
+      "price": -10
     },
     {
       "abr": "walk-infreezerunit",
@@ -4972,7 +4972,7 @@
       "abr": "watertub",
       "category": "Hygiene",
       "defname": "WashBucket",
-      "price": 52
+      "price": 60
     },
     {
       "abr": "accurate-auto-jortar",
@@ -5023,40 +5023,10 @@
       "price": 3617
     },
     {
-      "abr": "anti-materielrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSAMRifle",
-      "price": 1225
-    },
-    {
-      "abr": "assaultcharger",
-      "category": "Ranged weapons",
-      "defname": "Gun_AssaultCharger",
-      "price": 2500
-    },
-    {
       "abr": "autocannon",
       "category": "Security",
       "defname": "FT_AutoCannon",
       "price": -10
-    },
-    {
-      "abr": "automaticrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_AutomaticRifle",
-      "price": 767
-    },
-    {
-      "abr": "battlerifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSBattleRifle",
-      "price": 917
-    },
-    {
-      "abr": "blowgun",
-      "category": "Ranged weapons",
-      "defname": "Gun_Blowgun",
-      "price": 170
     },
     {
       "abr": "bugbomblauncher",
@@ -5077,46 +5047,10 @@
       "price": 525
     },
     {
-      "abr": "burstcharger",
-      "category": "Ranged weapons",
-      "defname": "Gun_BurstCharger",
-      "price": 2125
-    },
-    {
-      "abr": "carbine",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSCarbine",
-      "price": 783
-    },
-    {
-      "abr": "chargedriver",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeDriver",
-      "price": 2167
-    },
-    {
-      "abr": "chargeinfantyrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_CFR",
-      "price": 1842
-    },
-    {
-      "abr": "chargesidearm",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeSidearm",
-      "price": 808
-    },
-    {
       "abr": "chemistrytable",
       "category": "Production",
       "defname": "FT_TableChemistry",
       "price": 1767
-    },
-    {
-      "abr": "compoundbow",
-      "category": "Ranged weapons",
-      "defname": "Bow_Compound",
-      "price": 350
     },
     {
       "abr": "concretebarrier",
@@ -5140,163 +5074,7 @@
       "abr": "diagonalconcretebarrier",
       "category": "Security",
       "defname": "FT_BarrierDiagonal",
-      "price": 16
-    },
-    {
-      "abr": "duskcarbine",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_Carbine",
-      "price": 1642
-    },
-    {
-      "abr": "duskcloak",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Cloak",
-      "price": 275
-    },
-    {
-      "abr": "duskenforcer",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_Enforcer",
-      "price": 658
-    },
-    {
-      "abr": "duskhelmet",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet",
-      "price": 1058
-    },
-    {
-      "abr": "duskhood",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Hood",
-      "price": 73
-    },
-    {
-      "abr": "duskhoodedhelmet",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet_Hooded",
-      "price": 1158
-    },
-    {
-      "abr": "duskkris",
-      "category": "Melee weapons",
-      "defname": "DF_Dusk_Kris",
-      "price": 933
-    },
-    {
-      "abr": "dusklauncher",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_Launcher",
-      "price": 1617
-    },
-    {
-      "abr": "duskmag",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_MAG",
-      "price": 1750
-    },
-    {
-      "abr": "duskmesh",
-      "category": "Apparel",
-      "defname": "DF_Dusk_Mesh",
-      "price": 280
-    },
-    {
-      "abr": "duskrazor",
-      "category": "Melee weapons",
-      "defname": "DF_Dusk_Razor",
-      "price": 1808
-    },
-    {
-      "abr": "dusksaw",
-      "category": "Melee weapons",
-      "defname": "DF_Dusk_Saw",
-      "price": 2117
-    },
-    {
-      "abr": "dusksmg",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_SMG",
-      "price": 1058
-    },
-    {
-      "abr": "duskstriker",
-      "category": "Dusk weapons",
-      "defname": "DF_Dusk_Striker",
-      "price": 1650
-    },
-    {
-      "abr": "duskwintercloak",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Cloak_Fur",
-      "price": 315
-    },
-    {
-      "abr": "duskwintercloak(black)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Cloak_Fur_Black",
-      "price": 315
-    },
-    {
-      "abr": "duskwintercloak(golden)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Cloak_Fur_Gold",
-      "price": 315
-    },
-    {
-      "abr": "duskwintercloak(white)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Cloak_Fur_White",
-      "price": 315
-    },
-    {
-      "abr": "duskwinterhood",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Hood_Fur",
-      "price": 107
-    },
-    {
-      "abr": "duskwinterhood(black)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Hood_Fur_Black",
-      "price": 107
-    },
-    {
-      "abr": "duskwinterhood(golden)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Hood_Fur_Gold",
-      "price": 107
-    },
-    {
-      "abr": "duskwinterhood(white)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Hood_Fur_White",
-      "price": 107
-    },
-    {
-      "abr": "duskwinterhoodedhelmet",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet_Hooded_Fur",
-      "price": 1175
-    },
-    {
-      "abr": "duskwinterhoodedhelmet(black)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet_Hooded_Fur_Black",
-      "price": 1158
-    },
-    {
-      "abr": "duskwinterhoodedhelmet(golden)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet_Hooded_Fur_Gold",
-      "price": 1158
-    },
-    {
-      "abr": "duskwinterhoodedhelmet(white)",
-      "category": "Dusk apparel",
-      "defname": "DF_Dusk_Helmet_Hooded_Fur_White",
-      "price": 1158
+      "price": -10
     },
     {
       "abr": "dye",
@@ -5311,40 +5089,10 @@
       "price": 3583
     },
     {
-      "abr": "empdischarger",
-      "category": "Ranged weapons",
-      "defname": "Gun_EMPRifle",
-      "price": 1883
-    },
-    {
       "abr": "fiberconcreteplank",
       "category": "Stone blocks",
       "defname": "FT_WoodConcrete",
       "price": 2
-    },
-    {
-      "abr": "frontierrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_FR",
-      "price": 592
-    },
-    {
-      "abr": "heavyflakarmor",
-      "category": "Armor",
-      "defname": "Apparel_ProtectiveGear",
-      "price": 783
-    },
-    {
-      "abr": "heavyflakhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ProtectiveHelmet",
-      "price": 400
-    },
-    {
-      "abr": "heavypistol",
-      "category": "Ranged weapons",
-      "defname": "Gun_PistolHeavyRevolver",
-      "price": 375
     },
     {
       "abr": "hexagonalmortarlauncher",
@@ -5365,34 +5113,16 @@
       "price": 192
     },
     {
-      "abr": "industrialexo-frame",
-      "category": "Apparel",
-      "defname": "Apparel_Exoframe",
-      "price": 1675
-    },
-    {
       "abr": "infantrymortar",
       "category": "Security",
       "defname": "FT_Turret_Mortar",
-      "price": 1175
+      "price": -10
     },
     {
       "abr": "lathe",
       "category": "Production",
       "defname": "FT_TableLathe",
       "price": 933
-    },
-    {
-      "abr": "marksmanrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_MarksmanRifle",
-      "price": 867
-    },
-    {
-      "abr": "militiarifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_MilitiaRifle",
-      "price": 708
     },
     {
       "abr": "mobilechemfuelgenerator",
@@ -5431,88 +5161,34 @@
       "price": 1
     },
     {
-      "abr": "repeatingrifle",
+      "abr": "ak4.7",
       "category": "Ranged weapons",
-      "defname": "Gun_Repeater",
+      "defname": "CursedGun_AKFourPointSeven",
+      "price": 408
+    },
+    {
+      "abr": "american-90",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_AmericanNinety",
+      "price": 383
+    },
+    {
+      "abr": "asfal",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_ASFAL",
       "price": 517
     },
     {
-      "abr": "scattercharger",
+      "abr": "bossmerg",
       "category": "Ranged weapons",
-      "defname": "Gun_ScatterCharger",
-      "price": 1658
+      "defname": "CursedGun_Bossmerg",
+      "price": 483
     },
     {
-      "abr": "smartmachinegun",
+      "abr": "deaglov",
       "category": "Ranged weapons",
-      "defname": "SmartMG",
-      "price": 2267
-    },
-    {
-      "abr": "smartpistol",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartPistol",
-      "price": 633
-    },
-    {
-      "abr": "smartrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartRifle",
-      "price": 1942
-    },
-    {
-      "abr": "smartsmg",
-      "category": "Ranged weapons",
-      "defname": "Gun_SMG",
-      "price": 1375
-    },
-    {
-      "abr": "smartsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartSniperRifle",
-      "price": 2433
-    },
-    {
-      "abr": "smokegrenades",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeSmoke",
-      "price": 358
-    },
-    {
-      "abr": "tacticalhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_TacHelmet",
-      "price": 508
-    },
-    {
-      "abr": "tacticalvest",
-      "category": "Armor",
-      "defname": "Apparel_TacVest",
-      "price": 717
-    },
-    {
-      "abr": "tetrapods",
-      "category": "Security",
-      "defname": "FT_Tetrapods",
-      "price": 20
-    },
-    {
-      "abr": "throwingaxes",
-      "category": "Ranged weapons",
-      "defname": "Gun_ThrowingAxes",
-      "price": 342
-    },
-    {
-      "abr": "throwingclubs",
-      "category": "Ranged weapons",
-      "defname": "Gun_ThrowingClubs",
-      "price": 109
-    },
-    {
-      "abr": "thumper",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSThumper",
-      "price": 1075
+      "defname": "CursedGun_Deaglov",
+      "price": 216
     },
     {
       "abr": "deathsuperacidifier",
@@ -5521,419 +5197,179 @@
       "price": 1500
     },
     {
-      "abr": "advancedholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Standard",
-      "price": 3275
+      "abr": "dongopod",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Dongopod",
+      "price": 667
     },
     {
-      "abr": "afterlifecasket",
-      "category": "Buildings",
-      "defname": "Ship_AvatarCasket",
-      "price": 3575
+      "abr": "fedorahat",
+      "category": "Headgear",
+      "defname": "Apparel_FedoraCursedGun",
+      "price": 77
     },
     {
-      "abr": "antigraintorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_Antimatter",
-      "price": 2500
+      "abr": "fringspield",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Fringspield",
+      "price": 483
     },
     {
-      "abr": "archocat",
-      "category": "Animals",
-      "defname": "Archocat",
-      "price": -10
+      "abr": "gluger",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Gluger",
+      "price": 194
     },
     {
-      "abr": "archoffalo",
-      "category": "Animals",
-      "defname": "Archoffalo",
-      "price": -10
+      "abr": "gst44",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_GSTFourFour",
+      "price": 725
     },
     {
-      "abr": "archojerboa",
-      "category": "Animals",
-      "defname": "Archojerboa",
-      "price": -10
+      "abr": "gunsie",
+      "category": "Apparel",
+      "defname": "Apparel_Gunsie",
+      "price": 280
     },
     {
-      "abr": "archolifepod",
-      "category": "Items",
-      "defname": "ArcholifePod",
-      "price": 1667
+      "abr": "highimpactdongopod",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_DongopodRubber",
+      "price": 408
     },
     {
-      "abr": "archolope",
-      "category": "Animals",
-      "defname": "Archolope",
-      "price": -10
+      "abr": "kammygun",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_KammyGun",
+      "price": 633
     },
     {
-      "abr": "archomutt",
-      "category": "Animals",
-      "defname": "Archomutt",
-      "price": -10
+      "abr": "khaukhat",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Khaukhat",
+      "price": 667
     },
     {
-      "abr": "archopanda",
-      "category": "Animals",
-      "defname": "Archopanda",
-      "price": -10
+      "abr": "kniper",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Kniper",
+      "price": 166
     },
     {
-      "abr": "archospider",
-      "category": "Animals",
-      "defname": "Archospider",
-      "price": -10
+      "abr": "llock",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Llock",
+      "price": 194
     },
     {
-      "abr": "archostrich",
-      "category": "Animals",
-      "defname": "Archostrich",
-      "price": -10
+      "abr": "lugernikov",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Lugernikov",
+      "price": 281
     },
     {
-      "abr": "archostrichegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchostrichFertilized",
-      "price": -10
+      "abr": "mac-16",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_MacSixTeen",
+      "price": 408
     },
     {
-      "abr": "archostrichegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "EggArchostrichUnfertilized",
-      "price": -10
+      "abr": "makeagle",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Makeagle",
+      "price": 216
     },
     {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "SoSArchotechEar",
-      "price": 2000
+      "abr": "mp42",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_MPZweiundvierzig",
+      "price": 892
     },
     {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "SoSArchotechHeart",
-      "price": 4667
+      "abr": "o6pe3",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Obrez",
+      "price": 303
     },
     {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "SoSArchotechJaw",
-      "price": 3667
+      "abr": "onesie",
+      "category": "Apparel",
+      "defname": "Apparel_Onesie",
+      "price": 245
     },
     {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "SoSArchotechKidney",
-      "price": 3667
+      "abr": "pkmini",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_PKMini",
+      "price": 700
     },
     {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "SoSArchotechLiver",
-      "price": 3667
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "SoSArchotechLung",
-      "price": 4667
-    },
-    {
-      "abr": "archotechnose",
-      "category": "Archotech",
-      "defname": "SoSArchotechNose",
-      "price": 3667
-    },
-    {
-      "abr": "archotechpillaralpha",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarA",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillarbeta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarB",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillardelta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarD",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillargamma",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarC",
-      "price": -10
-    },
-    {
-      "abr": "archotechskin",
-      "category": "Archotech",
-      "defname": "SoSArchotechSkin",
-      "price": 4667
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "SoSArchotechSpine",
-      "price": 4667
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "SoSArchotechStomach",
-      "price": 4667
-    },
-    {
-      "abr": "archotechuplink",
-      "category": "Misc",
-      "defname": "ArchotechUplink",
-      "price": 8542
-    },
-    {
-      "abr": "archothrumbo",
-      "category": "Animals",
-      "defname": "Archothrumbo",
-      "price": -10
-    },
-    {
-      "abr": "archotortoise",
-      "category": "Animals",
-      "defname": "Archotortoise",
-      "price": -10
-    },
-    {
-      "abr": "archotortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchotortoiseFertilized",
-      "price": -10
-    },
-    {
-      "abr": "astromite",
-      "category": "Animals",
-      "defname": "Astromite",
-      "price": -10
-    },
-    {
-      "abr": "basicholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Basic",
-      "price": 1792
-    },
-    {
-      "abr": "cargoshuttle",
-      "category": "Furniture",
-      "defname": "CargoShuttle",
-      "price": 3925
-    },
-    {
-      "abr": "cargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleCargoRace",
-      "price": 7500
-    },
-    {
-      "abr": "cosmopillar",
-      "category": "Animals",
-      "defname": "Cosmopillar",
-      "price": -10
-    },
-    {
-      "abr": "emptorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_EMP",
+      "abr": "ppcyka",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_PPCyka",
       "price": 433
     },
     {
-      "abr": "entanglementmanifold",
-      "category": "Items",
-      "defname": "SoSEntanglementManifold",
-      "price": 6667
+      "abr": "saiga-11",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_SaigaEleven",
+      "price": 458
     },
     {
-      "abr": "evahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmet",
-      "price": 675
+      "abr": "sawpoint",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_SawPoint",
+      "price": 232
     },
     {
-      "abr": "evasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBody",
-      "price": 1150
+      "abr": "'scoped''pistol'",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_ScopedPistol",
+      "price": 550
     },
     {
-      "abr": "exoticparticles",
-      "category": "Items",
-      "defname": "ArchotechExoticParticles",
-      "price": 150
+      "abr": "simplie",
+      "category": "Apparel",
+      "defname": "Apparel_Simplie",
+      "price": 211
     },
     {
-      "abr": "heavycargoshuttle",
-      "category": "Furniture",
-      "defname": "HeavyShuttle",
-      "price": 6292
+      "abr": "skorpiov",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_Skorpiov",
+      "price": 358
     },
     {
-      "abr": "heavycargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleHeavyRace",
-      "price": 16667
-    },
-    {
-      "abr": "heavyevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetHeavy",
-      "price": 1500
-    },
-    {
-      "abr": "heavyevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": 4117
-    },
-    {
-      "abr": "high-explosivetorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_HighExplosive",
-      "price": 433
-    },
-    {
-      "abr": "hologramrelay",
-      "category": "Buildings",
-      "defname": "Ship_HologramRelay",
-      "price": 783
-    },
-    {
-      "abr": "hullfoamcanister",
-      "category": "Items",
-      "defname": "HullFoam",
-      "price": 33
-    },
-    {
-      "abr": "mechanitecocktails",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeMechanite",
-      "price": 1675
-    },
-    {
-      "abr": "mechanitedisassemblercore",
-      "category": "Items",
-      "defname": "ArchotechMechaniteCore",
-      "price": 6667
-    },
-    {
-      "abr": "mechaniterepairgel",
-      "category": "Items",
-      "defname": "ArchotechRepairGel",
-      "price": 833
-    },
-    {
-      "abr": "minimalshipbridge",
-      "category": "Furniture",
-      "defname": "ShipPilotSeatMini",
-      "price": 425
-    },
-    {
-      "abr": "personalshuttle",
-      "category": "Furniture",
-      "defname": "PersonalShuttle",
-      "price": 1792
-    },
-    {
-      "abr": "personalshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttlePersonalRace",
-      "price": 2500
-    },
-    {
-      "abr": "portablehologramrelay",
-      "category": "Utility",
-      "defname": "Apparel_HologramRelay",
-      "price": 1417
-    },
-    {
-      "abr": "psychicflayercore",
-      "category": "Items",
-      "defname": "ArchotechPsychicCore",
-      "price": 6667
-    },
-    {
-      "abr": "psychicmanipulator",
-      "category": "Archotech",
-      "defname": "SoSPsychicManipulator",
-      "price": 3333
-    },
-    {
-      "abr": "psychicpredictor",
-      "category": "Archotech",
-      "defname": "SoSPsychicPredictor",
-      "price": 2333
-    },
-    {
-      "abr": "recyclotron",
-      "category": "Production",
-      "defname": "ArchoRecycler",
-      "price": 10292
-    },
-    {
-      "abr": "sapientholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_AI",
-      "price": 10283
-    },
-    {
-      "abr": "shipbridge",
-      "category": "Furniture",
-      "defname": "ShipPilotSeat",
-      "price": 1200
-    },
-    {
-      "abr": "shipcapacitor",
-      "category": "Furniture",
-      "defname": "ShipCapacitorSmall",
-      "price": 908
-    },
-    {
-      "abr": "shipsalvage",
-      "category": "Special",
-      "defname": "ShipChunkSalvage",
-      "price": 1758
-    },
-    {
-      "abr": "stellapede",
-      "category": "Animals",
-      "defname": "Stellapede",
+      "abr": "tetrapods",
+      "category": "Security",
+      "defname": "FT_Tetrapods",
       "price": -10
     },
     {
-      "abr": "survivalbelt",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSurvivalBelt",
-      "price": 178
+      "abr": "tom-9",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_TomNine",
+      "price": 492
     },
     {
-      "abr": "uraniumfuelpod",
-      "category": "Manufactured",
-      "defname": "ShuttleFuelPods",
-      "price": 1
+      "abr": "worksie",
+      "category": "Apparel",
+      "defname": "Apparel_Worksie",
+      "price": 280
     },
     {
-      "abr": "vanoroot",
-      "category": "Vegetarian",
-      "defname": "RawVanoroot",
-      "price": 2
+      "abr": "yeep22",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_ZipTwoTwoThrown",
+      "price": 110
     },
     {
-      "abr": "weathernormalizationdevice",
-      "category": "Artifacts",
-      "defname": "WeatherCancelDevice",
-      "price": 2000
+      "abr": "zip22",
+      "category": "Ranged weapons",
+      "defname": "CursedGun_ZipTwoTwo",
+      "price": 110
     }
   ],
-  "total": 989
+  "total": 895
 }
