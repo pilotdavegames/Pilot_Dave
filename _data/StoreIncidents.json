@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 10000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -11,9 +16,34 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 1800,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 700,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 400,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "fog",
@@ -36,8 +66,28 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shortcircuit",
 		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "toxicfallout",
+		"price": 61000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 65000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "eclipse",
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -138,6 +188,16 @@
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 59
+	"total": 71
 }
