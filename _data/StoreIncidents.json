@@ -211,6 +211,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "siegeraid",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -257,7 +262,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -371,5 +376,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 75
 }
