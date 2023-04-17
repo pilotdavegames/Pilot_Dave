@@ -8284,7 +8284,7 @@
       "abr": "rockconstruct",
       "category": "Animals",
       "defname": "VPE_RockConstruct",
-      "price": 250
+      "price": 2900
     },
     {
       "abr": "rum",
@@ -8422,7 +8422,7 @@
       "abr": "steelconstruct",
       "category": "Animals",
       "defname": "VPE_SteelConstruct",
-      "price": 250
+      "price": 2900
     },
     {
       "abr": "stomach",
@@ -8698,7 +8698,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 1450
