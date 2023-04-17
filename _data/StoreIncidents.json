@@ -16,11 +16,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 1250,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 490,
 		"karmatype": "Neutral"
@@ -376,5 +371,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 75
+	"total": 74
 }
