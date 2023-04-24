@@ -54,6 +54,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
@@ -78,16 +84,22 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
   },
   {
     "author": "bodlosh",
@@ -100,6 +112,12 @@
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
     "version": "1.4.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Resource Generator",
+    "steamId": "2747511650",
+    "version": "1.4.6"
   },
   {
     "author": "Ykara(Original) elStrages(1.4Update)",
@@ -118,6 +136,24 @@
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.5.2.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Freya Fierce",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Igor Invader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   },
   {
     "author": "m00nl1ght-dev",
@@ -489,7 +525,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.4.0"
+    "version": "1.12.6.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -508,6 +544,12 @@
     "name": "No Burn Metal",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
   },
   {
     "author": "Haplo",
@@ -620,6 +662,12 @@
   {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Denerose",
+    "name": "Muffaloaves",
     "steamId": null,
     "version": null
   },
